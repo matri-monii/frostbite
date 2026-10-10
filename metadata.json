@@ -1,0 +1,6 @@
+{
+  "name": "Frostbite — Sub-Zero Artisanal Ice Creams",
+  "description": "High-fashion monochrome editorial storefront for Frostbite micro-batch ice cream and gelato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
